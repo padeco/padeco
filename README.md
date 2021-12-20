@@ -4,7 +4,6 @@
 
 <h3> 👨🏻‍💻 Sobre o mim </h3>
 
-- 🔭 &nbsp; Atualmente procuro por oportunidade de estagio.
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Desenvolvedor.
