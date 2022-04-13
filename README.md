@@ -13,7 +13,7 @@
 
 <h3>🛠 Hard Skills</h3>
 
-- 💻 &nbsp; Dart | C | Java  <!-- 🌐 &nbsp; HTML | CSS | Bootstrap --> 
+- 💻 &nbsp; Python | Dart | C | Java  <!-- 🌐 &nbsp; HTML | CSS | Bootstrap --> 
 - 🛢 &nbsp; SQL 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
